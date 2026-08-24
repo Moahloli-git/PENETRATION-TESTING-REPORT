@@ -94,6 +94,7 @@ Based on the information collected during the footprinting and network scanning 
 5	DNS infrastructure information exposed	DNSRecon identified DNS, mail and service-related records	DNS information can help build a broader infrastructure profile	● Medium
 
 6	Multiple live hosts visible on local network	Zenmap identified four live hosts in the example network	Unknown or unauthorized devices may potentially be present on a network	● Medium
+
 Risk level key: ● Critical ● Medium ● Low
 
 The risks above are observations from the footprinting and scanning exercises, not confirmed vulnerabilities.
